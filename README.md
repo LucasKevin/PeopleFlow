@@ -64,6 +64,18 @@ Para hospedar na AWS, foi utilizado um container Docker com a API rodando. Os pa
 
 Agora a API estará acessível publicamente pela URL gerada pela AWS.
 
+## Fotos
+
+![image](https://github.com/user-attachments/assets/db4e6bb8-71e7-4e31-a6f7-985ee6438537)
+![image](https://github.com/user-attachments/assets/bc6d9048-c921-41d1-96be-efcc3d146cef)
+![image](https://github.com/user-attachments/assets/707c9339-f248-4271-84a8-309d18edfb7a)
+![image](https://github.com/user-attachments/assets/195daecd-5a3d-4921-bcde-fb40318fdd52)
+![image](https://github.com/user-attachments/assets/6085dbc9-c525-4d5c-9995-b9375c2b49cb)
+
+
+
+
+
 ## Conclusão
 Este projeto fornece uma API robusta para gerenciamento de funcionários e relatórios. Ele pode ser expandido para novas funcionalidades e integrado a outros sistemas facilmente. Se houver alguma dúvida, consulte a documentação do FastAPI para mais detalhes sobre a estrutura da API.
 
