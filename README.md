@@ -27,8 +27,9 @@ Isso iniciará a API e o banco de dados dentro de containers.
 ### 3. Acessar a API
 A API estará disponível em:
 ```
-http://localhost:8000
+http://localhost:8000/employees
 ```
+
 A documentação automática do FastAPI pode ser acessada em:
 ```
 http://localhost:8000/docs
