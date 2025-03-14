@@ -20,14 +20,14 @@ O **SSYS Employee Manager** é uma API desenvolvida para gerenciar informações
 
 ### 1. Clonar o Repositório
 
-```bash
+bash```
 git clone https://github.com/seuusuario/ssys-employee-manager.git
-cd ssys-employee-manager
+cd ssys-employee-manager```
 
 2. Construir e rodar com Docker
 
-```bash
-docker-compose up --build
+bash```
+docker-compose up --build```
 Isso iniciará a API e o banco de dados dentro de containers.
 
 3. Acessar a API
@@ -68,5 +68,5 @@ Copiar o projeto para a instância.
 Rodar o comando:
 
 bash```
-docker-compose up --build
+docker-compose up --build```
 Configurar as regras de firewall para permitir conexões na porta 8000.
