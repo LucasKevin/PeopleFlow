@@ -1,4 +1,4 @@
-# Employee Manager - Documentação
+# PeopleFlow - Documentação
 
 ## Introdução
 O **PeopleFlowr** é uma API desenvolvida para gerenciar informações de funcionários e gerar relatórios. A API permite a criação, leitura, atualização e remoção (CRUD) de funcionários, além de fornecer relatórios baseados em idade e salário. Toda a aplicação é autenticada e pode ser integrada com outras ferramentas.
