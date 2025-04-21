@@ -14,7 +14,7 @@ O **PeopleFlowr** é uma API desenvolvida para gerenciar informações de funcio
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/ssys-employee-manager.git
+git clone https://github.com/LucasKevin/PeopleFlow.git
 cd ssys-employee-manager
 ```
 
