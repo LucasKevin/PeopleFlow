@@ -1,7 +1,7 @@
-# SSYS Employee Manager - Documentação
+# Employee Manager - Documentação
 
 ## Introdução
-O **SSYS Employee Manager** é uma API desenvolvida para gerenciar informações de funcionários e gerar relatórios. A API permite a criação, leitura, atualização e remoção (CRUD) de funcionários, além de fornecer relatórios baseados em idade e salário. Toda a aplicação é autenticada e pode ser integrada com outras ferramentas.
+O **PeopleFlowr** é uma API desenvolvida para gerenciar informações de funcionários e gerar relatórios. A API permite a criação, leitura, atualização e remoção (CRUD) de funcionários, além de fornecer relatórios baseados em idade e salário. Toda a aplicação é autenticada e pode ser integrada com outras ferramentas.
 
 ## Tecnologias Utilizadas
 - **Python** (Linguagem principal)
